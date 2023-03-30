@@ -1,5 +1,5 @@
 # Dynamic_SQL
-###Using PLSQL 
+Using PLSQL 
 _____________________________________________________________________________________________
 create dynamic Sequence / Trigger pair for each table in HR schema
 - drop all sequences and replace all triggers dynamically 
